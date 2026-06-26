@@ -1,0 +1,13 @@
+ticket_id,subject,message,reported_by
+1001,Cannot log in,I have tried resetting my password three times and still cannot access my account. This is urgent I need it for work tomorrow.,user_a92
+1002,Question about billing,Hi I noticed an extra charge on my last invoice. Can someone explain what this is for?,user_b14
+1003,Suspicious login attempt,I got an email saying someone tried to log into my account from a country I have never visited. Is my account safe?,user_c77
+1004,Harassment from another user,Another user has sent me threatening messages repeatedly over the last two days and I am scared to use the platform.,user_d33
+1005,Feature request,It would be great if the app had a dark mode option for night use.,user_e08
+1006,Account takeover,Someone changed my email and password without my permission and I cannot get back into my account.,user_f61
+1007,Slow loading times,"The dashboard has been loading very slowly for the past week, sometimes taking over a minute.",user_g19
+1008,Inappropriate content reported,I saw a post that contains graphic violent content and it has not been removed after I reported it yesterday.,user_h45
+1009,Refund request,I would like a refund for my last subscription payment because I did not use the service this month.,user_i52
+1010,Self harm content concern,I am worried about a post from another user that mentions wanting to hurt themselves. I am not sure what to do.,user_j88
+1011,Typo on website,I noticed a small spelling mistake on the pricing page footer.,user_k06
+1012,Payment failed repeatedly,My card keeps getting declined even though I have funds available and the card works elsewhere.,user_l71

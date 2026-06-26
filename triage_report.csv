@@ -1,0 +1,13 @@
+ticket_id,subject,reported_by,category,label,score,urgency_boost
+1010,Self harm content concern,user_j88,self_harm_risk,Self-Harm / Safety Risk,110,True
+1004,Harassment from another user,user_d33,harassment_abuse,Harassment / Abuse,95,True
+1006,Account takeover,user_f61,account_takeover,Account Takeover / Security,90,False
+1003,Suspicious login attempt,user_c77,suspicious_activity,Suspicious Account Activity,70,False
+1008,Inappropriate content reported,user_h45,graphic_content,Policy-Violating Content,65,False
+1001,Cannot log in,user_a92,access_issue,Account Access Issue,50,True
+1002,Question about billing,user_b14,billing,Billing / Payment,25,False
+1009,Refund request,user_i52,billing,Billing / Payment,25,False
+1012,Payment failed repeatedly,user_l71,billing,Billing / Payment,25,False
+1007,Slow loading times,user_g19,performance,Performance Issue,15,False
+1005,Feature request,user_e08,feature_request,Low Priority / Cosmetic,5,False
+1011,Typo on website,user_k06,feature_request,Low Priority / Cosmetic,5,False
